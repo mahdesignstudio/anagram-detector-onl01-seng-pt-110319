@@ -7,7 +7,7 @@ class Anagram
  
  # based on anagram matches will provide an array of words. 
  def match(matching_word)
-   matching_word
+   matching_word.select.do 
  
   
 end 
