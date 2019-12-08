@@ -5,7 +5,7 @@ class Anagram
    @word = word 
  end 
  
- # match will 
+ # based on anagram match 
  
   
 end 
