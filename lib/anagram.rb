@@ -6,8 +6,8 @@ class Anagram
  end 
  
  # based on anagram matches will provide an array of words. 
- def match(matching_word)
-   matching_word.select.do |matching_word|
+ def match(matched)
+   matched.select.do |matched|
      @word.split("").sort == matching_word.split("").sort
    end 
   end 
