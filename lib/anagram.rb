@@ -5,7 +5,8 @@ class Anagram
    @word = word 
  end 
  
- # based on anagram match 
+ # based on anagram matches will provide an array of words. 
+ 
  
   
 end 
