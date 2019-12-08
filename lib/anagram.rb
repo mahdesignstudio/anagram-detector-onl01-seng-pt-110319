@@ -6,7 +6,7 @@ class Anagram
  end 
  
  # based on anagram matches will provide an array of words. 
- 
+ def match 
  
   
 end 
